@@ -8,6 +8,6 @@ XOR Gate: Realisations of the XOR Gate
  ├── XOR_grad_des_adaptive_lr.m   ──> Via Gradient Descent with an Adaptive Learning Rate
                                    
 DTDS_RTRL: Realisations of Discrete-Time Dynamic Systems (DTDSs) using Recurrent Neural Networks (RNNs) trained using the Real-Time Recurrent Learning Algorithm (RTRL)
- ├── DTDS-1.m ──> Radial Basis Function Network for learning the NLSE's mapping
+ ├── DTDS-1.m ──> 
  ├── DTDS-2.m ──>
 ```
