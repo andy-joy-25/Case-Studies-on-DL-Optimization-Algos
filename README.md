@@ -5,7 +5,7 @@
 
 `XOR Gate`: Realisations of the XOR Gate 
 
- ├── `XOR_LF_1_Final.m`             ──> Via a Lyapunov Function (LF‑I) Based Learning Algorithm 
+ ├── `XOR_LF_1_Final.m`             ──> Via a Lyapunov Function (LF‑I) Based Learning Algorithm described [here](https://ieeexplore.ieee.org/document/1687923)
  
  ├── `XOR_grad_des_adaptive_lr.m`   ──> Via Gradient Descent with an Adaptive Learning Rate
                                    
