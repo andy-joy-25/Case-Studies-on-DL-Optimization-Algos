@@ -15,5 +15,5 @@
            
  ├── `DTDS-1.m` ──> The 1st DTDS: 𝑦<sub>𝑘+1</sub> = 𝑤<sub>1</sub>𝑦<sub>𝑘</sub> + 𝑤<sub>2</sub>𝑦<sub>𝑘−1</sub> + 𝑤<sub>3</sub>𝑢<sub>𝑘</sub>
  
- ├── `DTDS-2.m` ──> The 2nd DTDS: 𝑦<sub>𝑘+1</sub> = 𝑦<sub>𝑘</sub>/(1 + 𝑦<sup>2</sup><sub>𝑘</sub>)+𝑢<sup>3</sup><sub>𝑘</sub>
+ ├── `DTDS-2.m` ──> The 2nd DTDS: 𝑦<sub>𝑘+1</sub> = (𝑦<sub>𝑘</sub>/(1 + 𝑦<sup>2</sup><sub>𝑘</sub>)) + 𝑢<sup>3</sup><sub>𝑘</sub>
 
