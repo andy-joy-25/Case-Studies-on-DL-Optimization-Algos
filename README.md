@@ -10,6 +10,6 @@ XOR Gate: Realisations of the XOR Gate
 DTDS_RTRL: Realisations of Discrete-Time Dynamic Systems (DTDSs) using 
            Recurrent Neural Networks (RNNs) trained using 
            the Real-Time Recurrent Learning Algorithm (RTRL)
- ├── DTDS-1.m ──> The 1st DTDS
+ ├── DTDS-1.m ──> The 1st DTDS: 𝑦<sub>𝑘+1</sub> = 𝑤<sub>1</sub>𝑦<sub>𝑘</sub> + 𝑤<sub>2</sub>𝑦<sub>𝑘−1</sub> + 𝑤<sub>3</sub>𝑢<sub>𝑘</sub>
  ├── DTDS-2.m ──> The 2nd DTDS
 ```
