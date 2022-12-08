@@ -4,11 +4,10 @@
 
 ```
 XOR Gate: Realisations of the XOR Gate 
- ├── SSFM_Training_Set_Gen.m   ──> Training Dataset generated using the Split Step Fourier Method (SSFM) 
-                                   to solve the Non-Linear Schrodinger Equation (NLSE)
- ├── SSFM_Test_Set_Gen.m       ──> Test Dataset generated using the Split Step Fourier Method (SSFM) 
-                                   to solve the Non-Linear Schrodinger Equation (NLSE)
+ ├── XOR_LF_1_Final.m             ──> Via a Lyapunov Function (LF‑I) Based Learning Algorithm 
+ ├── XOR_grad_des_adaptive_lr.m   ──> Via Gradient Descent with an Adaptive Learning Rate
                                    
-DTDS: Realisations of Discrete-Time Dynamic Systems
- ├── RBFN_Optical_Pulse_Prop.m ──> Radial Basis Function Network for learning the NLSE's mapping
+DTDS_RTRL: Realisations of Discrete-Time Dynamic Systems (DTDSs) using Recurrent Neural Networks (RNNs) trained using the Real-Time Recurrent Learning Algorithm (RTRL)
+ ├── DTDS-1.m ──> Radial Basis Function Network for learning the NLSE's mapping
+ ├── DTDS-2.m ──>
 ```
